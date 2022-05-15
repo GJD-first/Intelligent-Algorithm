@@ -1,0 +1,5 @@
+make.exe --dry-run --keep-going --print-directory
+make: Entering directory 'd:/github/Intelligent-Algorithm'
+g++ genn.cpp -o gene -I../vcpkg-master/vcpkg-master/installed/x64-windows/include -L-I../vcpkg-master/vcpkg-master/installed/x64-windows/lib
+make: Leaving directory 'd:/github/Intelligent-Algorithm'
+ 
