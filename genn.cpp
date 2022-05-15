@@ -16,6 +16,13 @@ using namespace boost::numeric::ublas;
 vector<double> select(individual);//selection probability
 vector<double> adapt(individual);//adaptability
 //Calculate the probability of each chromosome being selected
+void calc_adapt()
+{
+	for(int i=0;i<individual;i++)
+	{
+		//determine the optimization function according to the objective function
+	}
+}
 void select_pro()
 {
 	double sum=0;
@@ -31,7 +38,7 @@ void select_pro()
 //Copy the best individual
 void copy()
 {
-	
+
 }
 int main()
 {

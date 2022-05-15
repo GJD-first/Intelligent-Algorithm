@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sun May 15 22:10:21 2022
+# Make data base, printed on Sun May 15 22:44:45 2022
 
 # Variables
 
@@ -21,7 +21,7 @@ USERPROFILE = C:\Users\GJD
 # environment
 LOCALAPPDATA = C:\Users\GJD\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-c36a9bbb-9206-49ab-a697-73a950666783-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-089012f8-7f28-4eb9-8696-5974329ddb9b-sock
 # environment
 VSCODE_CWD = D:\tools\Microsoft VS Code
 # environment
@@ -39,7 +39,7 @@ MAKE_COMMAND := D:/tools/choco/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_14796_AMIIHHEEXSOJOZAV
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_11560_ROREBWLSZVARBXCQ
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -97,7 +97,7 @@ EMULATOR_SDK_ROOT = D:\Program Files\MobileAppEngine\EmulatorSdk
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 14796
+VSCODE_PID = 11560
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -209,8 +209,7 @@ ALLUSERSPROFILE = C:\ProgramData
 # environment
 SESSIONNAME = Console
 # default
-.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target  
-extra-prereqs archives jobserver output-sync load
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
 # environment
 PROCESSOR_REVISION = 8e0c
 # environment
@@ -226,9 +225,10 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
 
 # Directories
 
-# . (key d:/github/Intelligent-Algorithm, mtime 1652623803): 8 files, no impossibilities.
+# . (key d:/github/Intelligent-Algorithm, mtime 1652625857): 8 files, no impossibilities.
 
-# 8 files, no impossibilities in 1 directories.
+# 8 files, no i 
+mpossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -283,6 +283,6 @@ all:
 # strcache performance: lookups = 18 / hit rate = 33%
 # hash-table stats:
 # Load=12/8192=0%, Rehash=0, Collisions=0/18=0%
-# Finished Make data base on Sun May 15 22:10:21 2022
+# Finished Make data base on Sun May 15 22:44:45 2022
 
  
